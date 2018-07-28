@@ -6,7 +6,7 @@
 
 Для использования get_roots необходимо импортировать его из quadratic_equation и задать значения аргументам a, b, c.
 
-**Например:
+**Например:**
 
     #импорт модуля
     from quadratic_equation import get_roots
