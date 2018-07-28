@@ -9,7 +9,7 @@
 **Например:**
 ```python 
 #импорт модуля
-***from quadratic_equation import get_roots***
+*from quadratic_equation import get_root*
 
 #задается переменная с использованием фукнции, аргументы функции.
 x = get_roots(1,2,-3)
