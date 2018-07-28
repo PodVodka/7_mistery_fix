@@ -4,12 +4,12 @@
 
 # Как использовать
 
-Для использования get_roots необходимо импортировать его из quadratic_equation и задать значения аргументам a, b, c.
+Для использования ***get_roots** необходимо импортировать его из ___quadratic_equation___ и задать значения аргументам __a, b, c__.
 
 **Например:**
 ```python 
 #импорт модуля
-from *quadratic_equation* import *get_root*
+from quadratic_equation import get_root
 
 #задается переменная с использованием фукнции, аргументы функции.
 x = get_roots(1,2,-3)
